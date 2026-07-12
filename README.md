@@ -11,7 +11,8 @@ This repository contains my Operating Systems assignment implemented in the C pr
 - thread.c
 
 ### Task2
-- (To be added)
+- FIFOPageReplacement.c
+- LRUPageReplacement.c
 
 ### Task3
 - (To be added)
