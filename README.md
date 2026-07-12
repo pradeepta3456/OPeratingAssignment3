@@ -13,6 +13,12 @@ This repository contains my Operating Systems assignment implemented in the C pr
 ### Task2
 - (To be added)
 
+### Task3
+- (To be added)
+
+### Task4
+- (To be added)
+
 ## Requirements
 - GCC Compiler
 - Ubuntu/Linux Operating System
