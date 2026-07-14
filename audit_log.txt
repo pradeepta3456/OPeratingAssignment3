@@ -1,7 +1,0 @@
-[Tue Jul 14 20:39:03 2026] user=admin action=CREATE file=notes.txt
-[Tue Jul 14 20:39:03 2026] user=admin action=WRITE file=notes.txt
-[Tue Jul 14 20:39:03 2026] user=admin action=READ file=notes.txt
-[Tue Jul 14 20:39:03 2026] user=admin action=DELETE file=notes.txt
-[Tue Jul 14 21:02:32 2026] user=admin action=ENCRYPT file=secret.enc
-[Tue Jul 14 21:02:32 2026] user=admin action=ENCRYPT file=secret.dec
-[Tue Jul 14 21:02:32 2026] user=admin action=DECRYPT file=secret.dec
