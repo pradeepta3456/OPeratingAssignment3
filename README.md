@@ -9,6 +9,7 @@ This repository contains my Operating Systems assignment implemented in the C pr
 - Deadlock.c
 - Round-Robin.c
 - thread.c
+- partD_race_condition_demo.c
 
 ### Task2
 - FIFOPageReplacement.c
@@ -20,7 +21,9 @@ This repository contains my Operating Systems assignment implemented in the C pr
 - encryption.c
 
 ### Task4
-- (To be added)
+- client.c
+- server.c
+- users.txt
 
 ## Requirements
 - GCC Compiler
