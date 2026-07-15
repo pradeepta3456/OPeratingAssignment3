@@ -15,7 +15,9 @@ This repository contains my Operating Systems assignment implemented in the C pr
 - LRUPageReplacement.c
 
 ### Task3
-- (To be added)
+- auth_permission.c
+- file_ops.c
+- encryption.c
 
 ### Task4
 - (To be added)
