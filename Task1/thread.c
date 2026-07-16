@@ -9,9 +9,9 @@ pthread_mutex_t counter_lock = PTHREAD_MUTEX_INITIALIZER;
 void *worker(void *arg) {
     int id = *(int *)arg;
     for (int i = 0; i < 100000; i++) {
-        pthread_mutex_lock(&counter_lock);   /* enter critical section */
-        shared_counter++;                    /* protected shared data  */
-        pthread_mutex_unlock(&counter_lock); /* leave critical section */
+        pthread_mutex_lock(&counter_lock);
+        shared_counter++;
+        pthread_mutex_unlock(&counter_lock);
     }
     printf("[Thread %d] finished 100000 increments.\n", id);
     return NULL;
