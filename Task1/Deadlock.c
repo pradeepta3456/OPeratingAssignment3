@@ -18,7 +18,6 @@ void *safe_transfer_a(void *arg) {
 
 void *safe_transfer_b(void *arg) {
     (void)arg;
-    /* Same order as thread A: X before Y. This is the fix. */
     pthread_mutex_lock(&lockX);
     usleep(1000);
     pthread_mutex_lock(&lockY);
