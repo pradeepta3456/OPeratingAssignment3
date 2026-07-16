@@ -1,7 +1,7 @@
 # OperatingSystemandSecurity
 
 ## Description
-This repository contains my Operating Systems assignment implemented in the C programming language.
+This repository contains my Operating Systems coursework (ST5004CEM) in C, covering multithreading, memory paging simulation, secure file management, and socket-based networking. Built and tested locally on Ubuntu.
 
 ## Folder Structure
 
@@ -9,6 +9,7 @@ This repository contains my Operating Systems assignment implemented in the C pr
 - Deadlock.c
 - Round-Robin.c
 - thread.c
+- partD_race_condition_demo.c
 
 ### Task2
 - FIFOPageReplacement.c
@@ -20,7 +21,9 @@ This repository contains my Operating Systems assignment implemented in the C pr
 - encryption.c
 
 ### Task4
-- (To be added)
+- client.c
+- server.c
+- users.txt
 
 ## Requirements
 - GCC Compiler
