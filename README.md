@@ -1,7 +1,7 @@
 # OperatingSystemandSecurity
 
 ## Description
-This repository contains my Operating Systems assignment implemented in the C programming language.
+This repository contains my Operating Systems coursework (ST5004CEM) in C, covering multithreading, memory paging simulation, secure file management, and socket-based networking. Built and tested locally on Ubuntu.
 
 ## Folder Structure
 
